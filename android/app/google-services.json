@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233868640755",
+    "project_id": "devfest-agenda",
+    "storage_bucket": "devfest-agenda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233868640755:android:ae1fe002c9b48deb3bd286",
+        "android_client_info": {
+          "package_name": "com.hatdroid.devfestagenda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVyhsWcGoyvu74gjH5rRbKp0DPt4n0Src"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
